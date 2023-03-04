@@ -1,0 +1,345 @@
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: iPhone9,3
+Device ID: A58C16FF-9DFF-4BD3-B6C7-F1EA3DC821C0
+Device OS Version: 14.7.1
+Device Name: KBREETIOS
+Device Model: iPhone
+Device Type: iPhone9,3
+Device ID: A58C16FF-9DFF-4BD3-B6C7-F1EA3DC821C0
+Device OS Version: 14.7.1
+Device Name: KBREETIOS
+Device Model: iPhone
+Device Type: iPhone9,3
+Device ID: A58C16FF-9DFF-4BD3-B6C7-F1EA3DC821C0
+Device OS Version: 14.7.1
+Device Name: KBREETIOS
+Device Model: iPhone
+Device Type: iPhone9,3
+Device ID: A58C16FF-9DFF-4BD3-B6C7-F1EA3DC821C0
+Device OS Version: 14.7.1
+Device Name: KBREETIOS
+Device Model: iPhone
+Device Type: iPhone9,3
+Device ID: A58C16FF-9DFF-4BD3-B6C7-F1EA3DC821C0
+Device OS Version: 14.7.1
+Device Name: KBREETIOS
+Device Model: iPhone
+Device Type: iPhone9,3
+Device ID: A58C16FF-9DFF-4BD3-B6C7-F1EA3DC821C0
+Device OS Version: 14.7.1
+Device Name: KBREETIOS
+Device Model: iPhone
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: iPhone9,3
+Device ID: A58C16FF-9DFF-4BD3-B6C7-F1EA3DC821C0
+Device OS Version: 14.7.1
+Device Name: KBREETIOS
+Device Model: iPhone
+Device Type: iPhone9,3
+Device ID: A58C16FF-9DFF-4BD3-B6C7-F1EA3DC821C0
+Device OS Version: 14.7.1
+Device Name: Anasios
+Device Model: iPhone
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: iPhone9,3
+Device ID: A58C16FF-9DFF-4BD3-B6C7-F1EA3DC821C0
+Device OS Version: 14.7.1
+Device Name: Anasios
+Device Model: iPhone
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: iPhone9,3
+Device ID: A58C16FF-9DFF-4BD3-B6C7-F1EA3DC821C0
+Device OS Version: 14.7.1
+Device Name: Anasios
+Device Model: iPhone
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
+Device Type: 
+Device ID: 
+Device OS Version: 
+Device Name: 
+Device Model: 
